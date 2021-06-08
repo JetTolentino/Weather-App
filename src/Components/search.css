@@ -1,0 +1,18 @@
+.search{
+    height:7vh;
+    width: 40vw;
+    margin-top: 40px;
+    display:flex;
+    justify-content: center;
+  }
+  
+  
+  .search-bar{
+    height:7vh;
+    width: 40vw;
+    border-radius: 20px;
+    font-size: 40px;
+    padding-left: 20px;
+    outline: none;
+    background-color: rgb(210, 175, 255);
+  }

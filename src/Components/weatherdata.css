@@ -1,0 +1,36 @@
+.weather-data{
+    height: 400px;
+    width:800px;
+    display:flex;
+    justify-content: flex-start;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .weather-info{
+    height: 100%;
+    width: 50%;
+    background-color: red;
+
+  }
+  
+  .icon{
+
+  }
+  
+  .temp{
+
+  }
+  
+  .weather{
+
+  }
+
+  .image{
+   
+  }
+
+.misc-data{
+  height:100%;
+  width:50%;
+  background-color: blue;
+}
