@@ -16,7 +16,7 @@ class Search extends Component {
         return ( 
         <div className='search'>
             <form>
-              <input type='text' className='search-bar' onChange={this.props.onChange}>
+              <input type='text' className='search-bar' onChange={this.props.onChange} spellcheck='false'>
               </input>
               <button type='submit' onClick={this.props.onSubmit} hidden>enter</button>
             </form>

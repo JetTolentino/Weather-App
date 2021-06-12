@@ -14,7 +14,9 @@
   }
   
   .icon{
-
+    height: 50%;
+    width: 100%;
+    background-color: skyblue;
   }
   
   .temp{
@@ -26,7 +28,8 @@
   }
 
   .image{
-   
+    height: 100%;
+    width: 100%;
   }
 
 .misc-data{

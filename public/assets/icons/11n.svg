@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1280 1024"
+	 xml:space="preserve">
+<g id="XMLID_923_">
+	<path id="XMLID_1149_" opacity="0.9" fill="#30B3FF" d="M534.3,680.8l-89.4,126.3c-9.2,12.9,0.1,30.8,15.9,30.8h0
+		c15.3,0,24.6,16.8,16.6,29.8l-47.7,77.5c-3.1,5,3.4,10.4,7.7,6.5L589,816.1c12.1-10.8,6.5-30.8-9.4-33.8l0,0
+		c-13.4-2.5-20.2-17.7-13.1-29.4l30.9-50.8c7.9-13-1.4-29.7-16.7-29.7h-30.4C543.9,672.5,538,675.6,534.3,680.8z"/>
+	<g id="XMLID_1704_">
+		<linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="364.611" y1="796.1155" x2="869.6866" y2="291.0399">
+			<stop  offset="5.376345e-03" style="stop-color:#FFFFFF;stop-opacity:0.7"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path id="XMLID_1716_" fill="url(#XMLID_2_)" d="M1041.2,550c0,115.1-93.2,210.7-208.4,210.7H416.1
+			c-115.1,0-208.4-92.3-208.4-207.4c0-57.5,23.3-109.1,61.1-146.8c23.8-23.8,53.1-41.5,86-51.6c11-104.8,99.6-189.5,207.2-189.5
+			c104.5,0,191,72.8,206.1,173.9h64.8C947.9,339.3,1041.2,434.9,1041.2,550z"/>
+		<path id="XMLID_1710_" fill="#FFFFFF" d="M1072.1,353.8c-35.4,65.1-104.2,109.2-183.4,109.2c-115.1,0-208.3-93.2-208.3-208.3
+			c0-79.2,44.2-148,109.2-183.4c-15.8,29.5-24.9,63.2-24.9,99.1c0,115.1,93.2,208.3,208.3,208.3
+			C1008.9,378.8,1042.6,369.7,1072.1,353.8z"/>
+		<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="362.7108" y1="786.9099" x2="674.8729" y2="474.7479">
+			<stop  offset="5.376345e-03" style="stop-color:#FFFFFF;stop-opacity:0.7"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path id="XMLID_1706_" fill="url(#XMLID_3_)" d="M780.9,634.8c0,71.2-57.6,130.2-128.8,130.2H394.5c-71.2,0-128.8-57-128.8-128.2
+			c0-35.5,14.4-67.4,37.7-90.7c14.7-14.7,32.8-25.7,53.1-31.9c6.8-64.8,61.6-117.1,128.1-117.1c64.6,0,118,45,127.4,107.5h40.1
+			C723.2,504.6,780.9,563.7,780.9,634.8z"/>
+	</g>
+</g>
+</svg>
