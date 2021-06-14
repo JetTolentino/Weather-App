@@ -4,10 +4,7 @@ import './search.css'
 class Search extends Component {
     constructor(props){
         super(props);
-        this.state = { 
-            display:''
-         }
-        
+
     }
 
 
@@ -16,7 +13,7 @@ class Search extends Component {
         return ( 
         <div className='search'>
             <form>
-              <input type='text' className='search-bar' onChange={this.props.onChange} spellcheck='false'>
+              <input type='text' className='search-bar' onChange={this.props.onChange} spellCheck='false'>
               </input>
               <button type='submit' onClick={this.props.onSubmit} hidden>enter</button>
             </form>

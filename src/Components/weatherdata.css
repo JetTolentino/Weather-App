@@ -9,22 +9,37 @@
   .weather-info{
     height: 100%;
     width: 50%;
-    background-color: red;
+    background-color: skyblue;
 
   }
   
   .icon{
-    height: 50%;
+    margin-top: 0px;
+    height: 45%;
     width: 100%;
     background-color: skyblue;
   }
   
   .temp{
-
+    display: flex;
+    height: 10%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size:60px;
+    font-family: 'M PLUS 1p', sans-serif;  
+    color:white;
   }
-  
   .weather{
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:20%;
+    width: 100%;
+    font-size: 40px;
+    font-family: 'M PLUS 1p', sans-serif;  
+    font-weight: 300;
+    color:white;
   }
 
   .image{
@@ -35,5 +50,18 @@
 .misc-data{
   height:100%;
   width:50%;
-  background-color: blue;
+  background-color: skyblue;
+}
+
+.country{
+  height: 10%;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+
 }

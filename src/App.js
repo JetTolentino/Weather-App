@@ -12,7 +12,8 @@ class App extends Component {
       temp:'',
       weather:'',
       icon:'',
-
+      date:'',
+      timezone:'',
     }
     this.handleSubmit = this.handleSubmit.bind(this)
   }
@@ -34,10 +35,13 @@ class App extends Component {
     console.log(data)
     console.log(data.weather[0].main)
     this.setState({
-      temp:data.main.temp+"°C", 
+      temp:data.main.temp, 
       weather: data.weather[0].main,
       icon:data.weather[0].icon,
-
+      date: data.dt,
+      timezone:data.timezone,
+      city:data.name,
+      country:data.sys.country
     })
   } 
 
@@ -56,6 +60,10 @@ class App extends Component {
           temp={this.state.temp} 
           weather={this.state.weather}
           icon={this.state.icon}
+          date={this.state.date}
+          timezone={this.state.timezone}
+          city={this.state.city}
+          country={this.state.country}
           ></WeatherData>
 
           

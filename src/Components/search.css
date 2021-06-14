@@ -14,5 +14,7 @@
     font-size: 40px;
     padding-left: 20px;
     outline: none;
-    background-color: rgb(210, 175, 255);
+    background-color: rgb(118, 183, 209);
+    color:rgb(241, 241, 241);
+    font-family: 'Quicksand', sans-serif;
   }
