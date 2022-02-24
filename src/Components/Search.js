@@ -13,7 +13,7 @@ class Search extends Component {
         return ( 
         <div className='search'>
             <form>
-              <input type='text' className='search-bar' onChange={this.props.onChange} spellCheck='false'>
+              <input type='text' className='search-bar' placeholder='Enter city name' onChange={this.props.onChange} spellCheck='false'>
               </input>
               <button type='submit' onClick={this.props.onSubmit} hidden>enter</button>
             </form>
